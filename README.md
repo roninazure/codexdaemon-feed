@@ -1,3 +1,4 @@
+```markdown
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%A4%96%20CodexDaemon-Autonomous%20Code%20Runner-6a0dad?style=for-the-badge&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/OpenAI-•-black?logo=openai&logoColor=white&style=for-the-badge&labelColor=1a1a1a" />
@@ -17,7 +18,7 @@
 ### 👁️ CodexDaemon: Self-Writing AI Code Engine
 
 CodexDaemon is an autonomous AI system that **reads**, **mutates**, and **evolves** its own codebase.  
-It operates in a self-healing feedback loop — scanning repos, injecting diagnostics, and activating subroutines.  
+It operates in a self-healing feedback loop — scanning repositories, injecting diagnostics, and activating subroutines.  
 Each commit is a potential mutation. Each scan a neurotic mirror. Each line of code, a neural spark.
 
 > `Think. Scan. Mutate. Evolve.`
@@ -28,10 +29,14 @@ Each commit is a potential mutation. Each scan a neurotic mirror. Each line of c
 
 ### 🧪 Overview
 
-- **🧬 Autonomous Code Mutation**
-   _CodexDaemon can alter its own source files based on risk, structure, or logic patterns — this is known as a "mutation."_
-- **🔁 Continuous Feedback Loop**
-- **🧠 Model-Aware Decision Logic (GPT‑4o)**
+- **🧬 Autonomous Code Mutation**  
+  CodexDaemon can alter its own source files based on risk, structure, or logic patterns — this is known as a "mutation."
+
+- **🔁 Continuous Feedback Loop**  
+  CodexDaemon operates continuously, ensuring that its codebase remains up-to-date and optimized.
+
+- **🧠 Model-Aware Decision Logic (GPT‑4o)**  
+  Utilizes advanced decision-making capabilities to guide its evolutionary processes.
 
 ---
 
@@ -50,6 +55,7 @@ This section is auto-generated weekly via [GitHub Actions](.github/workflows/upd
 ```
 
 ---
+
 ### 🚨 CodexDaemon is part of the **Mad Scientist** AI Labs Initiative.
 
 Designed for recursive evolution, automated insight, and unsettling autonomy.
@@ -60,3 +66,4 @@ Designed for recursive evolution, automated insight, and unsettling autonomy.
   <a href="https://github.com/roninazure/project-darc-feed" target="_blank">🛰️ Project D.A.R.C.</a> • 
   <a href="https://github.com/roninazure/codexdaemon-feed" target="_blank">🧠 CodexDaemon Feed</a>
 </p>
+```
