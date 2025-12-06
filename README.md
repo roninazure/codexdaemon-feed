@@ -43,11 +43,13 @@ This section is auto-generated weekly via [GitHub Actions](.github/workflows/upd
 ```
 
 ---
-
 ### 🚨 CodexDaemon is part of the **Mad Scientist** AI Labs Initiative.
 
 Designed for recursive evolution, automated insight, and unsettling autonomy.
 
 <p align="center">
-  <a href="https://github.com/roninazure" target="_blank">🧬 roninazure</a> • <a href="https://github.com/roninazure/CodexDaemon" target="_blank">🤖 CodexDaemon</a>
+  <a href="https://github.com/roninazure" target="_blank">🧬 roninazure</a> • 
+  <a href="https://github.com/roninazure/mad-scientist" target="_blank">🧪 Mad Scientist</a> • 
+  <a href="https://github.com/roninazure/project-darc-feed" target="_blank">🛰️ Project D.A.R.C.</a> • 
+  <a href="https://github.com/roninazure/codexdaemon-feed" target="_blank">🧠 CodexDaemon Feed</a>
 </p>
