@@ -22,15 +22,22 @@ Each commit is a potential mutation. Each scan a neurotic mirror. Each line of c
 
 > `Think. Scan. Mutate. Evolve.`
 
-🕒 **Last mission sync:** _(auto-updated via GitHub Action)_
+🕒 **Last mission sync:** `2025-12-03T18:44:00Z` <!-- auto-update target -->
 
 ---
 
 ### 🧪 Overview
 
 - **🧬 Autonomous Code Mutation**
+   _CodexDaemon can alter its own source files based on risk, structure, or logic patterns — this is known as a "mutation."_
 - **🔁 Continuous Feedback Loop**
 - **🧠 Model-Aware Decision Logic (GPT‑4o)**
+
+---
+
+<!-- CODEX_MUTATION_START -->
+> ⚠️ Mutation scan pending. Run `mutation_risk_analyzer.py` to generate risk profile.
+<!-- CODEX_MUTATION_END -->
 
 ---
 
