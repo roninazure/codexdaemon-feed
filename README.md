@@ -23,7 +23,7 @@ Each commit is a potential mutation. Each scan a neurotic mirror. Each line of c
 
 > `Think. Scan. Mutate. Evolve.`
 
-🕒 **Last mission sync:** `2025-12-06T19:09:42Z` <!-- auto-update target -->
+🕒 **Last mission sync:** `2025-12-06T19:28:24Z` <!-- auto-update target -->
 
 ---
 
@@ -51,7 +51,7 @@ Each commit is a potential mutation. Each scan a neurotic mirror. Each line of c
 This section is auto-generated weekly via [GitHub Actions](.github/workflows/update-readme.yml).
 
 ```
-🧠 LOC: 32,914 | Files: 188 | Risk Score: 4.7 | Last Scan: 2025-12-03
+🧠 Lines of Code (LOC): 32,914 | Files: 188 | Risk Score: 4.7 | Last Scan: 2025-12-03
 ```
 
 ---
