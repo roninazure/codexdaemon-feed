@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%A4%96%20CodexDaemon-Autonomous%20Code%20Runner-6a0dad?style=for-the-badge&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/OpenAI-•-black?logo=openai&logoColor=white&style=for-the-badge&labelColor=1a1a1a" />
@@ -66,4 +65,3 @@ Designed for recursive evolution, automated insight, and unsettling autonomy.
   <a href="https://github.com/roninazure/project-darc-feed" target="_blank">🛰️ Project D.A.R.C.</a> • 
   <a href="https://github.com/roninazure/codexdaemon-feed" target="_blank">🧠 CodexDaemon Feed</a>
 </p>
-```
