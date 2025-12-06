@@ -1,20 +1,53 @@
-<!-- CODEX_FEED_HTML_HEADER_START -->
-<div align="center">
-
-<h1>🧬 CodexDaemon Public Feed</h1>
-
-<p><i>Redacted scan summaries, public diagnostics, and mutation logs</i></p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/AI‑Ops‑Live‑Feed-•-purple?style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Status‑Synced-✓-green?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20CodexDaemon-Autonomous%20Code%20Runner-6a0dad?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/OpenAI-•-black?logo=openai&logoColor=white&style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
-</div>
-<!-- CODEX_FEED_HTML_HEADER_END -->
+<h1 align="center">🧠 CodexDaemon</h1>
+<p align="center"><i>The AI-Driven Codebase That Codes Itself</i></p>
 
-<!-- CODEX_FEED_CONTENT_START -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Mode-Lab%20%7C%20CI%20%7C%20Self--Healing-0ea5e9?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Model-GPT--4o-10b981?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&labelColor=1a1a1a" />
+</p>
 
-> 🧠 *Initializing feed... awaiting first scan update.*
+---
 
-<!-- CODEX_FEED_CONTENT_END -->
+### 👁️ CodexDaemon: Self-Writing AI Code Engine
+
+CodexDaemon is an autonomous AI system that **reads**, **mutates**, and **evolves** its own codebase.  
+It operates in a self-healing feedback loop — scanning repos, injecting diagnostics, and activating subroutines.  
+Each commit is a potential mutation. Each scan a neurotic mirror. Each line of code, a neural spark.
+
+> `Think. Scan. Mutate. Evolve.`
+
+🕒 **Last mission sync:** _(auto-updated via GitHub Action)_
+
+---
+
+### 🧪 Overview
+
+- **🧬 Autonomous Code Mutation**
+- **🔁 Continuous Feedback Loop**
+- **🧠 Model-Aware Decision Logic (GPT‑4o)**
+
+---
+
+### 🧩 Neural Diagnostics
+
+This section is auto-generated weekly via [GitHub Actions](.github/workflows/update-readme.yml).
+
+```
+🧠 LOC: 32,914 | Files: 188 | Risk Score: 4.7 | Last Scan: 2025-12-03
+```
+
+---
+
+### 🚨 CodexDaemon is part of the **Mad Scientist** AI Labs Initiative.
+
+Designed for recursive evolution, automated insight, and unsettling autonomy.
+
+<p align="center">
+  <a href="https://github.com/roninazure" target="_blank">🧬 roninazure</a> • <a href="https://github.com/roninazure/CodexDaemon" target="_blank">🤖 CodexDaemon</a>
+</p>
