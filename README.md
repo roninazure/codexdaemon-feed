@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%A4%96%20CodexDaemon-Autonomous%20Code%20Runner-6a0dad?style=for-the-badge&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/OpenAI-•-black?logo=openai&logoColor=white&style=for-the-badge&labelColor=1a1a1a" />
@@ -23,7 +22,7 @@ Each commit is a potential mutation. Each scan a neurotic mirror. Each line of c
 
 > `Think. Scan. Mutate. Evolve.`
 
-🕒 **Last mission sync:** `2025-12-06T19:31:19Z` <!-- auto-update target -->
+🕒 **Last mission sync:** `2025-12-03T18:44:00Z` <!-- auto-update target -->
 
 ---
 
@@ -51,7 +50,7 @@ Each commit is a potential mutation. Each scan a neurotic mirror. Each line of c
 This section is auto-generated weekly via [GitHub Actions](.github/workflows/update-readme.yml).
 
 ```
-🧠 Lines of Code (LOC): 32,914 | Files: 188 | Risk Score: 4.7 | Last Scan: 2025-12-03
+🧠 LOC: 32,914 | Files: 188 | Risk Score: 4.7 | Last Scan: 2025-12-03
 ```
 
 ---
@@ -66,4 +65,3 @@ Designed for recursive evolution, automated insight, and unsettling autonomy.
   <a href="https://github.com/roninazure/project-darc-feed" target="_blank">🛰️ Project D.A.R.C.</a> • 
   <a href="https://github.com/roninazure/codexdaemon-feed" target="_blank">🧠 CodexDaemon Feed</a>
 </p>
-```
