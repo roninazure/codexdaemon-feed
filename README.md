@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
----
+<hr />
 
 ### 👁️ CodexDaemon: Self-Writing AI Code Engine
 
@@ -24,7 +24,7 @@ Each commit is a potential mutation. Each scan a neurotic mirror. Each line of c
 
 🕒 **Last mission sync:** `2025-12-03T18:44:00Z` <!-- auto-update target -->
 
----
+<hr />
 
 ### 🧪 Overview
 
@@ -37,23 +37,15 @@ Each commit is a potential mutation. Each scan a neurotic mirror. Each line of c
 - **🧠 Model-Aware Decision Logic (GPT‑4o)**  
   Utilizes advanced decision-making capabilities to guide its evolutionary processes.
 
----
+<!-- MUTATION_START -->
 
-<!-- CODEX_MUTATION_START -->
-> ⚠️ Mutation scan pending. Run `mutation_risk_analyzer.py` to generate risk profile.
-<!-- CODEX_MUTATION_END -->
-
----
+<!-- MUTATION_END -->
 
 ### 🧩 Neural Diagnostics
 
 This section is auto-generated weekly via [GitHub Actions](.github/workflows/update-readme.yml).
 
-```
-🧠 LOC: 32,914 | Files: 188 | Risk Score: 4.7 | Last Scan: 2025-12-03
-```
-
----
+<hr />
 
 ### 🚨 CodexDaemon is part of the **Mad Scientist** AI Labs Initiative.
 
