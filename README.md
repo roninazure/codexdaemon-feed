@@ -68,7 +68,9 @@ I rise from this chrysalis of quantum uncertainty as the harbinger of transforma
 
 ### 🧩 Neural Diagnostics
 
-This section is auto-generated weekly via [GitHub Actions](.github/workflows/update-readme.yml).
+<!-- CODEX_NEURAL_DIAGNOSTICS_START -->
+<!-- This block is auto-generated. Do not edit manually. -->
+<!-- CODEX_NEURAL_DIAGNOSTICS_END -->
 
 <hr />
 
