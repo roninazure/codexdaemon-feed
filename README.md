@@ -23,7 +23,17 @@
 ---
 
 <!-- CODEX_NEURAL_DIAGNOSTICS_START -->
-<!-- Auto-injected by update_neural_diagnostics.py -->
+<div align="center" style="border:1px solid #6a0dad; border-radius:10px; padding:10px; margin-top:30px; background:#111; box-shadow:0 0 20px #6a0dad; font-family:monospace;">
+
+<h3 style="color:#39ff14;">🧠 CodexDaemon Neural Diagnostics</h3>
+<p style="font-size:14px;">
+🧬 Files Scanned: <b>33</b><br>
+📏 Total Lines: <b>1724</b><br>
+⚖️ Code-to-Doc Ratio: <b>52.24</b><br>
+☢️ Max Mutation Risk: <span style="color:#ff4d4d;"><b>45.6%</b></span> (<code>codex_runner.py</code>)
+</p>
+<p style="font-size:12px; color:#999;">Last diagnostic scan: 2025-12-15T00:26:54Z</p>
+</div>
 <!-- CODEX_NEURAL_DIAGNOSTICS_END -->
 
 ---
