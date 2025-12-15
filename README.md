@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/🧠%20CodexDaemon-Cybernetic%20Mutation%20Core-6a0dad?style=for-the-badge&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Model-GPT--4o-neon?style=for-the-badge&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Status-LIVE-ONLINE-brightgreen?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://github.com/roninazure/CodexDaemon-Rebuilt/actions/workflows/codexdaemon-daily-mutation.yml/badge.svg" />
 </p>
 
 <h1 align="center" style="color:#39ff14; font-family:monospace; font-size:36px;">⚡ CodexDaemon ⚡</h1>
