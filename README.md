@@ -103,6 +103,10 @@ It is not safe for use in production environments without understanding its muta
 
 ---
 
+<!-- MUTATION_LOG_START -->
+<!-- CodexDaemon Mutation Log will be injected here -->
+<!-- MUTATION_LOG_END -->
+
 <p align="center" style="font-size:12px; color:#444;">
   CodexDaemon™ is part of the <b>Mad Scientist AI Labs</b> surveillance & mutation ecosystem.
 </p>
