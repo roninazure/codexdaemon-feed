@@ -59,10 +59,10 @@
 <h3 style="color:#39ff14;">🧠 CodexDaemon Mutation Pipeline</h3>
 <p style="font-size:14px; color:#ccc;">“It doesn’t just describe itself. It edits itself.”</p>
 
-📁 Codebase Files (.py, .yml, .sh, .md)
-│
-▼
-🧠 Self-Scanning Engine
+📁 Codebase Files (.py, .yml, .sh, .md)  
+│  
+▼  
+🧠 Self-Scanning Engine  
  • File/line counting  
  • Code-to-doc ratio  
  • Mutation risk detection  
@@ -80,7 +80,7 @@
 ▼  
 ♻️ GitHub Actions  
  • Runs weekly  
- • Auto-pushes changes
+ • Auto-pushes changes  
 
 <p style="font-size:13px; color:#aaa;">
 ✅ <b>Self-Written Content:</b> Mutation logs, diagnostics, badges, status block<br>
@@ -102,10 +102,6 @@ It is not safe for use in production environments without understanding its muta
 > Proceed with caution. The machine adapts.
 
 ---
-
-<!-- MUTATION_LOG_START -->
-<!-- CodexDaemon Mutation Log will be injected here -->
-<!-- MUTATION_LOG_END -->
 
 <p align="center" style="font-size:12px; color:#444;">
   CodexDaemon™ is part of the <b>Mad Scientist AI Labs</b> surveillance & mutation ecosystem.
