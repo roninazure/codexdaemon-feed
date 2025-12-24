@@ -69,6 +69,23 @@
 </div>
 <!-- CONTRADICTION_MONITOR_END -->
 
+<!-- TASK_HORIZON_START -->
+<div align="center" style="border:1px solid #00ffff; border-radius:10px; padding:14px; margin-top:20px; background:#111; box-shadow:0 0 15px #00ffff; font-family:monospace;">
+
+<h3 style="color:#00ffff;">🔮 Task Horizon Forecast</h3>
+
+<pre style="color:#eee; background:#000; padding:10px; border-radius:6px; text-align:left; max-width:700px; margin:auto;">
+🧠 CodexDaemon projects the following priority queue:
+1. 🛰️ Recalibrate Mirage module with latest hallucination filters
+2. ⚙️ Inject new LLM-Agent routing matrix (Gemini 3, Claude Opus)
+3. 🛡️ Harden Anti-Gravity stabilization loop
+4. 📡 Scan .github/scripts for silent mutation vectors
+</pre>
+
+<p style="color:#999; font-size:12px;">🧠 Next-pulse horizon: 2025-12-23T07:33:28Z</p>
+</div>
+<!-- TASK_HORIZON_END -->
+
 ---
 
 <!-- CODEX_NEURAL_DIAGNOSTICS_START -->
