@@ -102,6 +102,38 @@
 </div>
 <!-- CODEX_NEURAL_DIAGNOSTICS_END -->
 
+<table style="width:100%; border-collapse:collapse; font-family:monospace; background:#111; color:#ccc;">
+<thead>
+<tr style="background:#1a1a1a; color:#39ff14;">
+  <th align="left">🧬 Agent</th>
+  <th align="left">🛠️ Role</th>
+  <th align="center">⚡ Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><code>MutationRunner</code></td>
+  <td>Triggers GPT-driven self-edits on source files</td>
+  <td align="center">🟢 Active</td>
+</tr>
+<tr>
+  <td><code>Sanitizer</code></td>
+  <td>Syntax cleanup + whitespace normalization</td>
+  <td align="center">🟣 Scheduled</td>
+</tr>
+<tr>
+  <td><code>ReconDrone</code></td>
+  <td>Drift inspection + hallucination detection</td>
+  <td align="center">🟠 Experimental</td>
+</tr>
+<tr>
+  <td><code>SentinelLoop</code></td>
+  <td>Monitors Anti‑Gravity agent response curves</td>
+  <td align="center">🔵 Beta</td>
+</tr>
+</tbody>
+</table>
+
 ---
 
 <details>
