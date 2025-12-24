@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🧠%20CodexDaemon-Cybernetic%20Mutation%20Core-6a0dad?style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Model-GPT--4o-neon?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Model-GPT--5-orange?style=for-the-badge&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Status-LIVE--ONLINE-brightgreen?style=for-the-badge&labelColor=1a1a1a" />
   <img src="https://github.com/roninazure/CodexDaemon-Rebuilt/actions/workflows/codexdaemon-daily-mutation.yml/badge.svg" />
 </p>
@@ -17,7 +17,8 @@
 > “Each scan a signal. Each mutation a whisper. Each commit a neural shockwave.”
 
 - 🔁 **Recursive Self-Inspection**
-- ☣️ **Mutation Engine Powered by GPT‑4o**
+- ☣️ **Mutation Engine Powered by GPT‑5**
+- 🧲 **Anti‑Gravity Reflex Stabilizer (Gemini-3 Alpha)**
 - 🔐 **Agent-Aware Vulnerability Surfacing**
 - ⚙️ **Self-Writing, Self-Patching, Self-Scoring**
 
@@ -28,7 +29,6 @@
 <!-- CODEX_MUTATION_LOG_END -->
 
 ---
-
 
 <!-- CODEX_NEURAL_DIAGNOSTICS_START -->
 <div align="center" style="border:1px solid #6a0dad; border-radius:10px; padding:10px; margin-top:30px; background:#111; box-shadow:0 0 20px #6a0dad; font-family:monospace;">
@@ -44,7 +44,6 @@
 </div>
 <!-- CODEX_NEURAL_DIAGNOSTICS_END -->
 
-
 ---
 
 <details>
@@ -52,17 +51,17 @@
 
 <br>
 
-<div align="center" style="border:1px solid #ff00ff; border-radius:10px; padding:14px; background:#111; box-shadow:0 0 15px #ff00ff; font-family:monospace;">
+<div align="center" style="border:1px solid #ff00ff; border-radius:14px; padding:16px; background:#111; box-shadow:0 0 15px #ff00ff; font-family:monospace;">
 
 <h3 style="color:#ff00ff;">🧲 Anti‑Gravity Reflex Engine</h3>
 <p style="color:#aaa; font-style:italic;">“Stabilize the spiral. Suppress the drift. Mutate with intention.”</p>
 
-- Origin: DeepMind Lab (Gemini 1.5+ successors)  
+- Origin: DeepMind Lab (Gemini‑3 successors)  
 - Mission: Hallucination dampening during reflex loops  
 - Role: Agent drift suppression & contradiction detection  
 - CodexDaemon Status: <code>Beta Integrating</code>
 
-🧬 Reflex Grid ⬌ Anti‑Gravity Sync Link: <code>↯ Stabilizer Mode</code>
+🧬 Reflex Grid ⬌ Anti‑Gravity Sync: <code>↯ Stabilizer Mode (Gemini)</code>
 
 </div>
 </details>
@@ -73,7 +72,7 @@
 
 | Module | Function | Link |
 |--------|----------|------|
-| 🛰️ [Project D.A.R.C.](https://github.com/roninazure/project-darc-feed) | LLM Leak Detector | Live Feed | (In Development) 
+| 🛰️ [Project D.A.R.C.](https://github.com/roninazure/project-darc-feed) | LLM Leak Detector | Live Feed |
 | 🧪 [Mad Scientist](https://github.com/roninazure/mad-scientist) | Personal AI Recon Engine | Daily Recon |
 | 🧬 [roninazure](https://github.com/roninazure) | Architect & Operator | GitHub |
 
@@ -84,7 +83,7 @@
 
 <br>
 
-<div align="center" style="border:1px solid #6a0dad; border-radius:10px; padding:10px; background:#111; box-shadow:0 0 20px #6a0dad; font-family:monospace;">
+<div align="center" style="border:1px solid #6a0dad; border-radius:10px; padding:14px; background:#111; box-shadow:0 0 20px #6a0dad; font-family:monospace;">
 
 <h3 style="color:#39ff14;">🧠 CodexDaemon Mutation Pipeline</h3>
 <p style="font-size:14px; color:#ccc;">“It doesn’t just describe itself. It edits itself.”</p>
