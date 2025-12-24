@@ -53,6 +53,22 @@
 </div>
 <!-- AGENT_MEMORY_END -->
 
+<!-- CONTRADICTION_MONITOR_START -->
+<div align="center" style="border:1px solid #ff4d4d; border-radius:10px; padding:14px; margin-top:20px; background:#111; box-shadow:0 0 15px #ff4d4d; font-family:monospace;">
+
+<h3 style="color:#ff4d4d;">🛑 Contradiction Monitor</h3>
+
+<pre style="color:#eee; background:#000; padding:10px; border-radius:6px; text-align:left; max-width:700px; margin:auto;">
+⚠️ Detected behavioral contradiction:
+- Mirage module reports risk drift ⬌ Sanitizer log shows “No Issues”
+
+🧩 Suggested resolution: enforce stricter cross-module telemetry.
+</pre>
+
+<p style="color:#999; font-size:12px;">🧠 Reflex Checkpoint: 2025-12-23T07:29:44Z</p>
+</div>
+<!-- CONTRADICTION_MONITOR_END -->
+
 ---
 
 <!-- CODEX_NEURAL_DIAGNOSTICS_START -->
