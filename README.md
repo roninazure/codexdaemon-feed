@@ -28,6 +28,15 @@
 🧬 2025-12-23T06:49:03Z — CodexDaemon mutated 3 files, flagged 1 unstable logic pattern.
 <!-- CODEX_MUTATION_LOG_END -->
 
+<!-- REFLEX_TRIGGER_START -->
+<div align="center" style="border:1px solid #00ffff; border-radius:10px; padding:12px; margin-top:20px; background:#000; box-shadow:0 0 12px #00ffff; font-family:monospace;">
+  <h3 style="color:#00ffff;">⚡ Reflex Trigger Summary</h3>
+  <p style="color:#ccc; font-size:14px;">Last activation: <code>2025-12-23T07:21:52Z</code></p>
+  <p style="color:#aaa;">Triggered by internal anomaly detection via <code>codex_runner.py</code><br>
+  Mutated <b>2</b> files, flagged <b>1</b> for stability recheck.</p>
+</div>
+<!-- REFLEX_TRIGGER_END -->
+
 ---
 
 <!-- CODEX_NEURAL_DIAGNOSTICS_START -->
