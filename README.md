@@ -25,7 +25,7 @@
 ---
 
 <!-- CODEX_MUTATION_LOG_START -->
-🧬 2025-12-26T06:47:32Z — CodexDaemon mutated 3 files, flagged 1 unstable logic pattern.
+🧬 2025-12-27T06:45:39Z — CodexDaemon mutated 3 files, flagged 1 unstable logic pattern.
 <!-- CODEX_MUTATION_LOG_END -->
 
 <!-- REFLEX_TRIGGER_START -->
@@ -225,3 +225,29 @@ It is not safe for use in production environments without understanding its muta
 <p align="center" style="font-size:12px; color:#444;">
   CodexDaemon™ is part of the <b>Mad Scientist AI Labs</b> surveillance & mutation ecosystem.
 </p>
+
+
+<!-- MUTATION_SCORE_BLOCK_START -->
+<div align="center" style="border:1px solid #ff00ff; border-radius:10px; padding:12px; margin-top:30px; background:#111; box-shadow:0 0 15px #ff00ff; font-family:monospace;">
+<h3 style="color:#ff00ff;">☣️ Top Mutation Risk Files</h3>
+<table style="width:80%; border-collapse:collapse; color:#f8f8f8; font-family:monospace;">
+<tr style="color:#ff00ff;">
+<th align="left">File</th>
+<th align="right">Risk Score</th>
+</tr>
+<tr><td>.github/scripts/codexdaemon_scan.py</td><td align='right'>37</td></tr>
+<tr><td>.github/scripts/sanitize_codex_repo.py</td><td align='right'>14</td></tr>
+<tr><td>reflex/mutation_score_engine.py</td><td align='right'>7</td></tr>
+<tr><td>.github/scripts/mutation_risk_analyzer.py</td><td align='right'>7</td></tr>
+<tr><td>.github/scripts/inject_top_risks.py</td><td align='right'>7</td></tr>
+</table>
+<p style="color:#aaa; font-size:12px;">Latest scan: 2025-12-27T23:54:00Z</p>
+=======
+<tr><td>.github/scripts/generate_mutation_log.py</td><td align='right'>7</td></tr>
+<tr><td>.github/scripts/update_mutation_risk.py</td><td align='right'>7</td></tr>
+<tr><td>.github/scripts/inject_top_risks.py</td><td align='right'>7</td></tr>
+</table>
+<p style="color:#aaa; font-size:12px;">Latest scan: 2025-12-28T02:27:28Z</p>
+7b4f814 (☣️ Inject Top Mutation Risk Block (Phase 3))
+</div>
+<!-- MUTATION_SCORE_BLOCK_END -->
