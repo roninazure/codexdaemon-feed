@@ -226,7 +226,7 @@ P25-12-28T15:09:50Z<!-- CODEX_MUTATION_LOG_END -->
 <tr><td>.github/scripts/mutation_risk_analyzer.py</td><td align='right'>7</td></tr>
 <tr><td>.github/scripts/inject_top_risks.py</td><td align='right'>7</td></tr>
 </table>
-<p style="color:#aaa; font-size:12px;">Latest scan: 2025-12-29T05:17:01Z</p>
+<p style="color:#aaa; font-size:12px;">Latest scan: 2025-12-30T05:02:29Z</p>
 </div>
 <!-- MUTATION_SCORE_BLOCK_END -->
 
