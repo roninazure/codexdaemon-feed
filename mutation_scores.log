@@ -1,0 +1,9 @@
+🧠 CODEX DAEMON — MUTATION RISK ANALYSIS
+⏱️ Scan Time: 2026-01-08T02:55:01.914822Z
+------------------------------------------------------------
+✅ ./.github/scripts/codexdaemon_scan.py | risk_score=0.20
+✅ ./.github/scripts/inject_top_risks.py | risk_score=0.14
+✅ ./.github/scripts/normalize_codex_logs.py | risk_score=0.13
+✅ ./.github/scripts/update_mutation_risk.py | risk_score=0.10
+✅ ./.github/scripts/sanitize_codex_repo.py | risk_score=0.09
+------------------------------------------------------------
