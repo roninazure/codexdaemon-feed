@@ -25,7 +25,7 @@
 ---
 
 <!-- CODEX_MUTATION_LOG_START -->
-🧬 2026-01-06T06:50:30Z — CodexDaemon mutated 3 files, flagged 1 unstable logic pattern.
+🧬 2026-01-08T06:49:37Z — CodexDaemon mutated 3 files, flagged 1 unstable logic pattern.
 <!-- CODEX_MUTATION_LOG_END -->
 
 <!-- REFLEX_TRIGGER_START -->
@@ -224,13 +224,13 @@
 <th align="left">File</th>
 <th align="right">Risk Score</th>
 </tr>
-<tr><td>.github/scripts/codexdaemon_scan.py</td><td align='right'>37</td></tr>
-<tr><td>.github/scripts/sanitize_codex_repo.py</td><td align='right'>14</td></tr>
-<tr><td>reflex/mutation_score_engine.py</td><td align='right'>7</td></tr>
-<tr><td>.github/scripts/mutation_risk_analyzer.py</td><td align='right'>7</td></tr>
-<tr><td>.github/scripts/inject_top_risks.py</td><td align='right'>7</td></tr>
+<tr><td>./.github/scripts/codexdaemon_scan.py</td><td align='right'>0.20</td></tr>
+<tr><td>./.github/scripts/inject_top_risks.py</td><td align='right'>0.14</td></tr>
+<tr><td>./.github/scripts/normalize_codex_logs.py</td><td align='right'>0.13</td></tr>
+<tr><td>./.github/scripts/update_mutation_risk.py</td><td align='right'>0.10</td></tr>
+<tr><td>./.github/scripts/sanitize_codex_repo.py</td><td align='right'>0.09</td></tr>
 </table>
-<p style="color:#aaa; font-size:12px;">Latest scan: 2026-01-06T05:02:31Z</p>
+<p style="color:#aaa; font-size:12px;">Latest scan: 2026-01-08T02:55:01.914822Z</p>
 </div>
 <!-- MUTATION_SCORE_BLOCK_END -->
 
