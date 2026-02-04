@@ -25,7 +25,7 @@
 ---
 
 <!-- CODEX_MUTATION_LOG_START -->
-🧬 2026-01-20T06:53:26Z — CodexDaemon mutated 3 files, flagged 1 unstable logic pattern.
+🧬 2026-02-03T07:06:38Z — CodexDaemon mutated 3 files, flagged 1 unstable logic pattern.
 <!-- CODEX_MUTATION_LOG_END -->
 
 <!-- REFLEX_TRIGGER_START -->
@@ -92,19 +92,23 @@
 
 
 
+
+
 <!-- CODEX_NEURAL_DIAGNOSTICS_START -->
 <div align="center" style="border:1px solid #6a0dad; border-radius:10px; padding:10px; margin-top:30px; background:#111; box-shadow:0 0 20px #6a0dad; font-family:monospace;">
 
 <h3 style="color:#39ff14;">🧠 CodexDaemon Neural Diagnostics</h3>
 <p style="font-size:14px;">
-🧬 Files Scanned: <b>42</b><br>
-📏 Total Lines: <b>2345</b><br>
-⚖️ Code-to-Doc Ratio: <b>55.83</b><br>
-☢️ Max Mutation Risk: <span style="color:#ff4d4d;"><b>50.6%</b></span> (<code>README.md</code>)
+🧬 Files Scanned: <b>43</b><br>
+📏 Total Lines: <b>2426</b><br>
+⚖️ Code-to-Doc Ratio: <b>56.42</b><br>
+☢️ Max Mutation Risk: <span style="color:#ff4d4d;"><b>51.4%</b></span> (<code>README.md</code>)
 </p>
-<p style="font-size:12px; color:#999;">Last diagnostic scan: 2026-01-18T03:48:06Z</p>
+<p style="font-size:12px; color:#999;">Last diagnostic scan: 2026-02-01T04:30:51Z</p>
 </div>
 <!-- CODEX_NEURAL_DIAGNOSTICS_END -->
+
+
 
 
 
@@ -228,13 +232,13 @@
 <th align="left">File</th>
 <th align="right">Risk Score</th>
 </tr>
-<tr><td>./.github/scripts/codexdaemon_scan.py</td><td align='right'>0.20</td></tr>
-<tr><td>./.github/scripts/inject_top_risks.py</td><td align='right'>0.14</td></tr>
-<tr><td>./.github/scripts/normalize_codex_logs.py</td><td align='right'>0.13</td></tr>
-<tr><td>./.github/scripts/update_mutation_risk.py</td><td align='right'>0.10</td></tr>
-<tr><td>./.github/scripts/sanitize_codex_repo.py</td><td align='right'>0.09</td></tr>
+<tr><td>.github/scripts/codexdaemon_scan.py</td><td align='right'>37</td></tr>
+<tr><td>.github/scripts/sanitize_codex_repo.py</td><td align='right'>14</td></tr>
+<tr><td>inject_mutation_log_block.py</td><td align='right'>7</td></tr>
+<tr><td>reflex/mutation_score_engine.py</td><td align='right'>7</td></tr>
+<tr><td>.github/scripts/inject_mutation_log_block.py</td><td align='right'>7</td></tr>
 </table>
-<p style="color:#aaa; font-size:12px;">Latest scan: 2026-01-08T02:55:01.914822Z</p>
+<p style="color:#aaa; font-size:12px;">Latest scan: 2026-02-03T05:38:46Z</p>
 </div>
 <!-- MUTATION_SCORE_BLOCK_END -->
 
