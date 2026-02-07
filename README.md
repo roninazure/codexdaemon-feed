@@ -25,7 +25,7 @@
 ---
 
 <!-- CODEX_MUTATION_LOG_START -->
-🧬 2026-02-03T07:06:38Z — CodexDaemon mutated 3 files, flagged 1 unstable logic pattern.
+🧬 2026-02-07T06:57:54Z — CodexDaemon mutated 3 files, flagged 1 unstable logic pattern.
 <!-- CODEX_MUTATION_LOG_END -->
 
 <!-- REFLEX_TRIGGER_START -->
@@ -238,7 +238,7 @@
 <tr><td>reflex/mutation_score_engine.py</td><td align='right'>7</td></tr>
 <tr><td>.github/scripts/inject_mutation_log_block.py</td><td align='right'>7</td></tr>
 </table>
-<p style="color:#aaa; font-size:12px;">Latest scan: 2026-02-03T05:38:46Z</p>
+<p style="color:#aaa; font-size:12px;">Latest scan: 2026-02-07T05:30:24Z</p>
 </div>
 <!-- MUTATION_SCORE_BLOCK_END -->
 
