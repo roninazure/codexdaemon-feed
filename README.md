@@ -2,13 +2,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🧠%20CodexDaemon-Cybernetic%20Mutation%20Core-6a0dad?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Version-v0.3.5-39ff14?style=for-the-badge&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Model-GPT--5-orange?style=for-the-badge&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Status-LIVE--ONLINE-brightgreen?style=for-the-badge&labelColor=1a1a1a" />
   <img src="https://github.com/roninazure/CodexDaemon-Rebuilt/actions/workflows/codexdaemon-daily-mutation.yml/badge.svg" />
   <img src="https://github.com/roninazure/CodexDaemon-Rebuilt/actions/workflows/neurogenesis-feed.yml/badge.svg" />
 </p>
 
-<h1 align="center" style="color:#39ff14; font-family:monospace; font-size:38px;">⚡ CodexDaemon ⚡</h1>
+<h1 align="center" style="color:#39ff14; font-family:monospace; font-size:38px;">⚡ CodexDaemon v0.3.5 ⚡</h1>
 <p align="center" style="color:#999; font-family:monospace; font-size:14px;">
   <i>The self-mutating AI that maintains its own codebase and streams its pulse to the public feed.</i>
 </p>
@@ -16,6 +17,7 @@
 ---
 
 ## 🚀 What Is CodexDaemon?
+**Current version:** `v0.3.5` – Phase 3 (Mutation Risk Engine + Neurogenesis feed).
 
 > “Each scan a signal. Each mutation a whisper. Each commit a neural shockwave.”
 
